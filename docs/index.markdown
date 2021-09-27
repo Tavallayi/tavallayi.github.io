@@ -8,7 +8,7 @@ Senior Web Developer
 
 ## Contact Info
 
-Email: [tavallayi@gmail.com](tavallayi@gmail.com), Tel: [+989124239515](tel:+989124239515),
+Email: [tavallayi@gmail.com](mailto:tavallayi@gmail.com), Tel: [+989124239515](tel:+989124239515),
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) tavallayi](https://www.linkedin.com/in/tavallayi)
 , 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) tavallayi](https://github.com/tavallayi)
