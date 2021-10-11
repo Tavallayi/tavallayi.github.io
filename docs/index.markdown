@@ -83,7 +83,7 @@ Email: [tavallayi@gmail.com](mailto:tavallayi@gmail.com), Tel: [+989124239515](t
 
 ## Miscellaneous achievements
 * Appreciated by CTO of Real Estate Registration Organization of Iran in spring 2017 & 2018
-* Sample employee at Saman Parallel Processing in 2008
+* Most recognized employee at Saman Parallel Processing in 2008
 
 ## Hobbies
 * Swimming, Mountaineering
