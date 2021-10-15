@@ -20,7 +20,7 @@ Email: [tavallayi@gmail.com](mailto:tavallayi@gmail.com), Tel: [+989124239515](t
 
 **[Sharif University of Technology](http://www.sharif.edu/), Tehran, Iran**
 
-*B. Pure Mathematics(September 1999 – February 2005)*
+*B&#46;Sc. Pure Mathematics(September 1999 – February 2005)*
 
 ## Experience
 **[Vision IT](http://vision-it.ir/), Tehran, Iran**
